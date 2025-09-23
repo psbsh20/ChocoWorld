@@ -1,5 +1,5 @@
 {
-  "name": "ChocoWorld",
+  "name": "choco-world",
   "private": true,
   "scripts": {
     "build": "turbo run build",
