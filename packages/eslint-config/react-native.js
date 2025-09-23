@@ -12,9 +12,6 @@ const config = [
   js.configs.recommended,
   eslintConfigPrettier,
   ...tseslint.configs.recommended,
-  {
-    rules: {},
-  },
 ];
 
 export default config;
