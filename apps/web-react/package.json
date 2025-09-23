@@ -21,6 +21,7 @@
     "@react-router/dev": "^7.7.1",
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
+    "@repo/prettier-config": "workspace:*",
     "@tailwindcss/vite": "^4.1.4",
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
@@ -30,5 +31,6 @@
     "typescript": "5.9.2",
     "vite": "^6.3.3",
     "vite-tsconfig-paths": "^5.1.4"
-  }
+  },
+  "prettier": "@repo/prettier-config"
 }
