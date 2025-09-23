@@ -1,0 +1,10 @@
+{
+  "extends": "@repo/typescript-config/nodejs.json",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["**/*.ts", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}
